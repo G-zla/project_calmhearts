@@ -22,7 +22,7 @@ Include screenshots of the different sections of the website to provide an overv
   ![Anxiety Test page](CalmHearts\CalmHearts\static\images\page9web.png)
 
   - Get help page
-  ![Get help](CalmHearts\CalmHearts\static\images\webpage10web.png)
+  ![Get help](https://github.com/G-zla/project_calmhearts/blob/main/static/images/webpage10web.png)
 
 ## Technologies Used
 
