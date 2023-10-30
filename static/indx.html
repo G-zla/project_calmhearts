@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Worry Level Test</title>
+    <link rel="stylesheet" type="text/css" href="styeel.css">
+</head>
+
+
+
+
+<body>
+
+
+
+    <div class="container">
+        <h1>Worry Level Test</h1>
+        <form id="worryForm">
+            <h2>Answer the following questions:</h2>
+            <p>1. Are you constantly worried about the future?</p>
+            <input type="radio" name="q1" value="0"> No<br>
+            <input type="radio" name="q1" value="1"> Yes<br>
+            <p>2. Do you find it difficult to control your worrying thoughts?</p>
+            <input type="radio" name="q2" value="0"> No<br>
+            <input type="radio" name="q2" value="1"> Yes<br>
+            <p>3. Do you experience physical symptoms of anxiety (e.g., racing heart, sweating, trembling)?</p>
+            <input type="radio" name="q3" value="0"> No<br>
+            <input type="radio" name="q3" value="1"> Yes<br>
+            <p>4. Does worry interfere with your daily activities or relationships?</p>
+            <input type="radio" name="q4" value="0"> No<br>
+            <input type="radio" name="q4" value="1"> Yes<br>
+            <p>5. How often do you find yourself worrying excessively?</p>
+            <input type="radio" name="q5" value="0"> Rarely<br>
+            <input type="radio" name="q5" value="1"> Sometimes<br>
+            <input type="radio" name="q5" value="2"> Often<br>
+            <input type="radio" name="q5" value="3"> Almost always<br>
+            <br>
+            <button type="submit">Submit</button>
+        </form>
+        <div id="result" class="hidden">
+            <h2>Your Worry Level:</h2>
+            <p>Total Score: <span id="totalScore"></span></p>
+            <h3>Advice:</h3>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
