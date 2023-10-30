@@ -10,19 +10,19 @@ It provides features and advice on the topic of anxiety, calculates the anxiety 
 Include screenshots of the different sections of the website to provide an overview of its design and layout.
 
 - Home Page
-  ![Home Page](page5web.png)
+  ![Home Page](CalmHearts\CalmHearts\static\images\page5web.png)
 
 - What's Anxiety? Page
-  ![What's Anxiety Page](page6web.png)
+  ![What's Anxiety Page](CalmHearts\CalmHearts\static\images\page6web.png)
 
 - Anxiety Test page
-  ![Anxiety Test page](page8web.png)
+  ![Anxiety Test page](CalmHearts\CalmHearts\static\images\page8web.png)
 
   - Anxiety Results page
-  ![Anxiety Test page](page9web.png)
+  ![Anxiety Test page](CalmHearts\CalmHearts\static\images\page9web.png)
 
   - Get help page
-  ![Get help](webpage10.png)
+  ![Get help](CalmHearts\CalmHearts\static\images\webpage10web.png)
 
 ## Technologies Used
 
@@ -48,3 +48,10 @@ To run the project locally, follow these steps:
 3. Start MongoDB: `mongod`
 4. Start the server: `node app.js`
 5. Open the website in your browser: `http://localhost:3000`
+
+## Group members:
+- Ghazala bander mohamed AL-Dossri(442020968)
+- Taif melfi AL-mutairi(441022499)
+- Manal lafe AL-anzi( 441018233)
+- Eman talal AL-anzi(441019353)
+
