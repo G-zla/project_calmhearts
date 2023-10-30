@@ -10,16 +10,16 @@ It provides features and advice on the topic of anxiety, calculates the anxiety 
 Include screenshots of the different sections of the website to provide an overview of its design and layout.
 
 - Home Page
-  ![Home Page](CalmHearts\CalmHearts\static\images\page5web.png)
+  ![Home Page](https://github.com/G-zla/project_calmhearts/blob/main/static/images/page5web.png)
 
 - What's Anxiety? Page
-  ![What's Anxiety Page](CalmHearts\CalmHearts\static\images\page6web.png)
+  ![What's Anxiety Page](https://github.com/G-zla/project_calmhearts/blob/main/static/images/page6web.png)
 
 - Anxiety Test page
-  ![Anxiety Test page](CalmHearts\CalmHearts\static\images\page8web.png)
+  ![Anxiety Test page](https://github.com/G-zla/project_calmhearts/blob/main/static/images/page8web.png)
 
   - Anxiety Results page
-  ![Anxiety Test page](CalmHearts\CalmHearts\static\images\page9web.png)
+  ![Anxiety Test page](https://github.com/G-zla/project_calmhearts/blob/main/static/images/page9web.png)
 
   - Get help page
   ![Get help](https://github.com/G-zla/project_calmhearts/blob/main/static/images/webpage10web.png)
@@ -37,7 +37,7 @@ Include screenshots of the different sections of the website to provide an overv
 
 The user journey on the website can be summarized using the following flowchart:
 
-![User Interaction Flowchart](FLOW.png)
+![User Interaction Flowchart](https://github.com/G-zla/project_calmhearts/blob/main/static/images/FLOW.png)
 
 ## Getting Started
 
