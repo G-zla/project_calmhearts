@@ -43,7 +43,7 @@ The user journey on the website can be summarized using the following flowchart:
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: ``
+1. Clone the repository: `https://github.com/G-zla/project_calmhearts.git`
 2. Install dependencies: `npm install`
 3. Start MongoDB: `mongod`
 4. Start the server: `node app.js`
